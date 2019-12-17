@@ -1,7 +1,14 @@
 # Mod3FinalProject
 
-This repository contains the Module 3 project for the Flatiron online data science program. 
 
-The python code and bulk of the project is contained in the file "ProjectMain.ipynb"
+The video walkthrough can be found in the "WalkThrough" folder
 
-This file imports data from the "Northwind_small.sqlite" file which is a file in SQL format
+The main project is located in the ProjectMain.ipynb file
+    The data this file imports is in the SQL file Northwind+small.sqlite
+    
+The powerpoint is located in the mod_three_powerpoint.pptx file
+
+
+blog link:
+
+https://steve699777341.wordpress.com/2019/12/11/flatiron-school-module-3-final-project/
